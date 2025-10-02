@@ -1,0 +1,31 @@
+<svg width="600" height="220" viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .circle { fill: #EAF5FF; stroke: #0077C8; stroke-width: 2; }
+    .text-title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #002664; text-anchor: middle; }
+    .text-desc { font-family: Arial, sans-serif; font-size: 14px; fill: #333333; text-anchor: middle; }
+  </style>
+  
+  <g transform="translate(110, 110)">
+    <circle cx="0" cy="0" r="80" class="circle"/>
+    <text x="0" y="-10" class="text-title">Founder</text>
+    <text x="0" y="10" class="text-desc">Strategy &</text>
+    <text x="0" y="28" class="text-desc">Leadership</text>
+  </g>
+
+  <g transform="translate(300, 110)">
+    <circle cx="0" cy="0" r="80" class="circle"/>
+    <text x="0" y="-10" class="text-title">Supply Lead</text>
+    <text x="0" y="10" class="text-desc">Procurement &</text>
+    <text x="0" y="28" class="text-desc">Logistics</text>
+  </g>
+  
+  <g transform="translate(490, 110)">
+    <circle cx="0" cy="0" r="80" class="circle"/>
+    <text x="0" y="-10" class="text-title">Sales Lead</text>
+    <text x="0" y="10" class="text-desc">Market</text>
+    <text x="0" y="28" class="text-desc">Access</text>
+  </g>
+  
+  <line x1="190" y1="110" x2="220" y2="110" stroke="#0077C8" stroke-width="2"/>
+  <line x1="380" y1="110" x2="410" y2="110" stroke="#0077C8" stroke-width="2"/>
+</svg>

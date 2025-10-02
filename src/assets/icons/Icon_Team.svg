@@ -1,0 +1,17 @@
+<svg width="150" height="100" viewBox="0 0 150 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .person { fill: #4A4A4A; }
+  </style>
+  <g transform="translate(75, 50) scale(1)">
+    <circle cx="0" cy="-15" r="15" class="person"/>
+    <path d="M -25 25 Q -25 5, 0 5 Q 25 5, 25 25 Z" class="person"/>
+  </g>
+  <g transform="translate(35, 55) scale(0.8)">
+    <circle cx="0" cy="-15" r="15" class="person"/>
+    <path d="M -25 25 Q -25 5, 0 5 Q 25 5, 25 25 Z" class="person"/>
+  </g>
+  <g transform="translate(115, 55) scale(0.8)">
+    <circle cx="0" cy="-15" r="15" class="person"/>
+    <path d="M -25 25 Q -25 5, 0 5 Q 25 5, 25 25 Z" class="person"/>
+  </g>
+</svg>

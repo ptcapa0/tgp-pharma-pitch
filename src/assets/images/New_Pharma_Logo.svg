@@ -1,0 +1,5 @@
+<svg width="300" height="70" viewBox="0 0 300 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M60.13 22.1C55.63 12.3 45.13 5 33.13 5C17.03 5 4.13001 17.9 4.13001 34C4.13001 50.1 17.03 63 33.13 63C42.83 63 51.33 58 56.53 50.1" stroke="#8A2BE2" stroke-width="8" stroke-linecap="round"/>
+  <path d="M12.13 47.9C16.63 57.7 27.13 65 39.13 65C55.23 65 68.13 52.1 68.13 36C68.13 19.9 55.23 7 39.13 7C29.43 7 20.93 12 15.73 19.9" stroke="#00CED1" stroke-width="8" stroke-linecap="round"/>
+  <text x="90" y="48" font-family="Arial, sans-serif" font-size="36" fill="#333333">New Pharma</text>
+</svg>
